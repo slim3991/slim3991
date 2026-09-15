@@ -1,16 +1,19 @@
-## Hi there 👋
+# Johan Kegel
+Engineering Physics graduate from KTH, specializing in Applied & Computational Mathematics.
 
-<!--
-**slim3991/slim3991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of mathematics, data and software, with a focus on numerical methods, algorithms and scientific computing.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Numerical computing & applied mathematics
+- Algorithms & scientific software
+- Data science & machine learning
+- C++ / Python
+
+## Selected projects
+
+- Incremental SVD — C++17 / Eigen / pybind11
+- Parallel PCG Solver — C++17 / OpenMP
+ -Tensor decomposition & graph regularization — Master's thesis
+
+[https://slim3991.github.io/] [www.linkedin.com/in/johan-kegel]
